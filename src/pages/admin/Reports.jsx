@@ -301,7 +301,7 @@ const Reports = () => {
                 <Tooltip contentStyle={{ backgroundColor: '#1C1C1C', border: '1px solid #D4AF37' }} />
               </PieChart>
             </ResponsiveContainer>
-          </div>
+          </motion.div>
         </div>
       </div>
     );
